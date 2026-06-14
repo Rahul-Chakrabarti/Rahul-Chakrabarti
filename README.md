@@ -4,30 +4,20 @@ Recent CS graduate and QML researcher based in Toronto. I co-authored a peer-rev
 
 **Interests:** quantum computing, machine learning, low-level systems and hardware, compilers, financial market data
 
----
-
-## Publication and Research
+## Publications
 
 **[Comparative analysis of projector‐based compression and quantum autoencoders]** — *[Quantum Information Science, Sensing, and Computation XVII, SPIE, 2025]*
 Variational quantum circuits, quantum autoencoders, hybrid quantum-classical models and optimizers, quantum data compression and quantum communication, mixed quantum states.
 
----
-
 ## Projects
 
-| Project | Stack |
-|---|---|
-| Currency Exchange Analyzer: Spring Boot REST API with FOREX data ingestion, PostgreSQL, and a Python ML forecasting layer | Java, Spring Boot, PostgreSQL, Python, Docker |
-| EZ-Sharp Compiler: a four-phase compiler: lexer, parser, semantic analysis, 3TAC codegen | C, C++ |
-| Raspberry Pi Hardware Control Hub: SPI, PWM, UART, and GPIO abstraction from scratch to power hardware peripherals | Python |
-
----
+- Currency Exchange Analyzer: Spring Boot REST API with FOREX data ingestion, PostgreSQL, and a Python ML forecasting layer
+- EZ-Sharp Compiler: a four-phase compiler: lexer, parser, semantic analysis, 3TAC codegen
+- Raspberry Pi Hardware Control Hub: SPI, PWM, UART, and GPIO abstraction from scratch to power hardware peripherals
 
 ## Currently
 
 Building a language model from scratch. Implementing character-level tokenization through to a full PyTorch implementation.
-
----
 
 [Portfolio](https://rahul-chakrabarti.github.io/) · [LinkedIn](https://www.linkedin.com/in/rahul-chakrabarti1/)
 
