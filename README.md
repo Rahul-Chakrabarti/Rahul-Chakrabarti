@@ -21,6 +21,8 @@ Building a language model from scratch. Implementing character-level tokenizatio
 
 [Portfolio](https://rahul-chakrabarti.github.io/) · [LinkedIn](https://www.linkedin.com/in/rahul-chakrabarti1/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Chakrabarti&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Rahul-Chakrabarti/Rahul-Chakrabarti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
