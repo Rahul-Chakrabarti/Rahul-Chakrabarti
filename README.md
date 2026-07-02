@@ -21,10 +21,13 @@ Building a language model from scratch. Implementing character-level tokenizatio
 
 [Portfolio](https://rahul-chakrabarti.github.io/) · [LinkedIn](https://www.linkedin.com/in/rahul-chakrabarti1/)
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Rahul-Chakrabarti&hide=jupyternotebook&langs_count=10&layout=compact)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Rahul-Chakrabarti&hide=jupyter%20notebook&langs_count=10&layout=compact)](https://github.com/stats-organization/github-stats-extended)
 
 <!--
 **Rahul-Chakrabarti/Rahul-Chakrabarti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+docs/advanced_documentation.md
+https://github.com/stats-organization/github-stats-extended/blob/master/docs/advanced_documentation.md#hide-individual-languagess
 
 Here are some ideas to get you started:
 
